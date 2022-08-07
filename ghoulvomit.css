@@ -1,0 +1,21 @@
+body {
+  background-color: orange;
+  padding-left: 200px;
+  padding-right: 200px;
+  background-image: url("skull-flame.gif");
+}
+
+.sex {
+  width: 600px;
+  height: 200px;
+}
+
+.logo {
+  width: 500px;
+  position: fixed;
+}
+
+.skeleton {
+  font-family: cursive;
+  color: red;
+  font-size: 50px;
